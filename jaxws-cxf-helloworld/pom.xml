@@ -21,6 +21,7 @@
 		<maven-compiler-plugin.version>3.7.0</maven-compiler-plugin.version>
 		<jetty-maven-plugin.version>9.4.8.v20171121</jetty-maven-plugin.version>
 		<maven-failsafe-plugin.version>2.20.1</maven-failsafe-plugin.version>
+		<project.basedir>C:/Users/U22400/git/CXFWebServices/jaxws-cxf-helloworld</project.basedir>
 	</properties>
 
 	<!-- Added the build tag to specify the compiler version -->
